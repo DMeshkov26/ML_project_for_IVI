@@ -1,1 +1,1 @@
-# Coursework_ML
+# Курсовая работа. Блок ML Beginner
